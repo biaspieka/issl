@@ -7,3 +7,5 @@
     +----+---------------+---------------+
 
 Name: jetpack - v2.9.3
+
+https://wiki.skullsecurity.org/Passwords <= dictionary rock4u actualy! 4tobi ne proebat' link na live-usb
